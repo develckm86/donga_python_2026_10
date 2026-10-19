@@ -7,6 +7,7 @@ items=[
 for item in items :
     for key, value in item.items() :
         print(key, value)
+
 # 3번 문제 정답 (아이템의 총액)
 total_price=0
 for item in items :
