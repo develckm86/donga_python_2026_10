@@ -23,6 +23,5 @@ while True :
     else :
         print(f"오답 Up! 남은기회 {REST-cnt}")
 
-
 #1.예외가 발생할 수 있는 상황을 찾으세요!
 #2.예외를 처리하세요!
